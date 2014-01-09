@@ -54,4 +54,5 @@ Notes:
 
 Recent Changes:
 ===============
-* None
+* 01/09/2014 - Added MIT `LICENSE` file
+* 01/09/2014 - Added `.gitignore` file
