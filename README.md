@@ -5,19 +5,26 @@ OAuth Login Implementation Examples using rauth via Bottle.py
 
 Prerequisites:
 ==============
-* `pip`
-* `virtualenv`
+**System Packages:**
+* For Python Packages:
+  * `python-setuptools`
+  * `pip`
+  * `virtualenv`
+
+**Python Packages:**
 * `bottle`
 * `rauth`
 
 Installing the prerequisites:
 =============================
-1. Install `pip` and `virtualenv`: `sudo easy_install pip virtualenv`
-2. Clone the repository: `git clone https://github.com/ejelome/oauth-login-implementation-examples-using-rauth-via-bottle.git`
-3. Go to the directory: `cd oauth-login-implementation-examples-using-rauth-via-bottle`
-4. Create a virtualenv: `virtualenv venv`
-5. Activate virtualenv: `source venv/bin/activate`
-6. Install remaining prerequisites (`bottle` and `rauth`): `pip install -r requirements.txt`
+1. Install required System Packages: `sudo apt-get install python-setuptools`
+2. Install `pip`: `sudo easy_install -U pip`
+3. Install `virtualenv`: `sudo pip install -U virtualenv`
+4. Clone the repository: `git clone https://github.com/ejelome/oauth-login-implementation-examples-using-rauth-via-bottle.git`
+5. Go to the directory: `cd oauth-login-implementation-examples-using-rauth-via-bottle`
+6. Create a virtualenv: `virtualenv venv`
+7. Activate virtualenv: `source venv/bin/activate`
+8. Install remaining prerequisites (`bottle` and `rauth`): `pip install -r requirements.txt`
 
 Modify the `hosts` file:
 ========================
@@ -56,3 +63,4 @@ Recent Changes:
 ===============
 * 01/09/2014 - Added MIT `LICENSE` file
 * 01/09/2014 - Added `.gitignore` file
+* 01/10/2014 - Added `python-setuptools` on the prerequisites and installating prerequisites
