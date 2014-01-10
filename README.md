@@ -6,7 +6,7 @@ OAuth Login Implementation Examples using rauth via Bottle.py
 Prerequisites:
 ==============
 **System Packages:**
-* For Python Packages:
+* For Python packages:
   * `python-setuptools`
   * `pip`
   * `virtualenv`
@@ -17,7 +17,7 @@ Prerequisites:
 
 Installing the prerequisites:
 =============================
-1. Install required System Packages: `sudo apt-get install python-setuptools`
+1. Install `python-setuptools`: `sudo apt-get install python-setuptools`
 2. Install `pip`: `sudo easy_install -U pip`
 3. Install `virtualenv`: `sudo pip install -U virtualenv`
 4. Clone the repository: `git clone https://github.com/ejelome/oauth-login-implementation-examples-using-rauth-via-bottle.git`
