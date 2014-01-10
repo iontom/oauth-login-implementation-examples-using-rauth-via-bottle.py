@@ -64,4 +64,4 @@ Recent Changes:
 * 01/09/2014 - Added MIT `LICENSE` file
 * 01/09/2014 - Added `.gitignore` file
 * 01/10/2014 - Added `python-setuptools` on the prerequisites and installing prerequisites
-* 01/10/2014 - Re-tested and updated installation usage instructions
+* 01/10/2014 - Re-tested and updated installation and usage instructions
