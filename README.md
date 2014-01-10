@@ -6,7 +6,7 @@ OAuth Login Implementation Examples using rauth via Bottle.py
 Prerequisites:
 ==============
 **System Packages:**
-* For Python Packages:
+* For Python packages:
   * `python-setuptools`
   * `pip`
   * `virtualenv`
@@ -17,11 +17,11 @@ Prerequisites:
 
 Installing the prerequisites:
 =============================
-1. Install required System Packages: `sudo apt-get install python-setuptools`
+1. Install `python-setuptools`: `sudo apt-get install python-setuptools`
 2. Install `pip`: `sudo easy_install -U pip`
 3. Install `virtualenv`: `sudo pip install -U virtualenv`
-4. Clone the repository: `git clone https://github.com/ejelome/oauth-login-implementation-examples-using-rauth-via-bottle.git`
-5. Go to the directory: `cd oauth-login-implementation-examples-using-rauth-via-bottle`
+4. Clone the repository: `git clone https://github.com/ejelome/oauth-login-implementation-examples-using-rauth-via-bottle.py`
+5. Go to the directory: `cd oauth-login-implementation-examples-using-rauth-via-bottle.py`
 6. Create a virtualenv: `virtualenv venv`
 7. Activate virtualenv: `source venv/bin/activate`
 8. Install remaining prerequisites (`bottle` and `rauth`): `pip install -r requirements.txt`
@@ -45,10 +45,10 @@ python oauth1-twitter.py # Twitter
 python oauth2-google.py # Google
 ```
 
-2. Open a browser and go to: `http://localhost:8000`
+2. Open a browser and go to: [http://localhost:8000](http://localhost:8000)
 3. To Login:
    * Click *Log in using xyz*, where xyz is either Facebook, Twitter, or Google
-   * Or go to: `http://localhost:8000/login`
+   * Or go to: [http://localhost:8000/login](http://localhost:8000/login)
 
 Notes:
 ======
@@ -64,3 +64,4 @@ Recent Changes:
 * 01/09/2014 - Added MIT `LICENSE` file
 * 01/09/2014 - Added `.gitignore` file
 * 01/10/2014 - Added `python-setuptools` on the prerequisites and installing prerequisites
+* 01/10/2014 - Re-tested and updated installation usage instructions
