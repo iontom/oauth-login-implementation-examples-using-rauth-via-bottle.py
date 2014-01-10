@@ -61,4 +61,4 @@ Notes:
 
 Recent Changes:
 ===============
-See [CHANGELOG](https://github.com/ejelome/oauth-login-implementation-examples-using-rauth-via-bottle.py/blob/master/CHANGELOG)
+See: [CHANGELOG](https://github.com/ejelome/oauth-login-implementation-examples-using-rauth-via-bottle.py/blob/master/CHANGELOG)
