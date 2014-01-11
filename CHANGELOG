@@ -1,5 +1,5 @@
 2010-01-10 EJelome <ejelome@gmail.com>
-* README.md: Transferred *Recent Changes*' logs to this file
+* README.md: Transferred Recent Changes' logs to this file
   - 2014-01-09:
     : Added MIT LICENSE and .gitignore files
     : Added python-setuptools on the prerequisites and installing prerequisites
